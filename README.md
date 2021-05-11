@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NunzioFornitto
+- 👋 Hi, I’m Nunzio Fornitto
 - 👀 I’m interested in the world of software development
 - 🌱 I’m currently learning the language of programming java
 - 📫 How to reach me  Instagram: @nunziofornitto, Facebook: Nunzio Fornitto, E-mail:nfornitto@gmail.com   
