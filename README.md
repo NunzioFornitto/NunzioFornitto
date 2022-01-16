@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nunzio Fornitto
 - 👀 I’m interested in the world of software development
-- 🌱 I’m currently learning the language of programming java
+- 🌱 I’m currently learning the programming of microcontrollers
 - 📫 How to reach me  Instagram: @nunziofornitto, Facebook: Nunzio Fornitto, E-mail:nfornitto@gmail.com   
 
 <!---
