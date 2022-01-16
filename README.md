@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Nunzio Fornitto
 - 👀 I’m interested in the world of software development
 - 🌱 I’m currently learning the programming of microcontrollers
-- 📫 How to reach me  Instagram: @nunziofornitto, Facebook: Nunzio Fornitto, E-mail:nfornitto@gmail.com, Linkedin:https://www.linkedin.com/in/nunzio-fornitto/   
+- 📫 How to reach me:
+     - Instagram: https://www.instagram.com/nunziofornitto 
+     - Facebook: https://www.facebook.com/nunzio.fornitto 
+     - E-mail:nfornitto@gmail.com
+     - Linkedin:https://www.linkedin.com/in/nunzio-fornitto/   
 
 <!---
 NunzioFornitto/NunzioFornitto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
