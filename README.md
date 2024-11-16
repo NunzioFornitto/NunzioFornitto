@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nunzio Fornitto
-- 👀 I’m interested in the world of software development
+- 👀 I’m interested in the world of software development, in particulary DevOps
 - 🌱 I’m currently learning the programming of microcontrollers
 - 📫 How to reach me:
      - Instagram: https://www.instagram.com/nunziofornitto 
