@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Nunzio Fornitto
-- 👀 I’m interested in the world of software development, in particulary DevOps
-- 🌱 I’m currently learning the programming of microcontrollers
+- 👀 I’m interested in the world of software development, in particularly DevOps
+- 🌱 I’m currently learning the build & depoyment with tecnologys such has
+     Docker, Kubernates.
 - 📫 How to reach me:
      - Instagram: https://www.instagram.com/nunziofornitto 
      - Facebook: https://www.facebook.com/nunzio.fornitto 
