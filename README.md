@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nunzio Fornitto
 - 👀 I’m interested in the world of software development, in particularly DevOps
-- 🌱 I’m currently learning the build & depoyment with tecnologys such has
+- 🌱 I’m currently learning the build & deployment with tecnologys such has
      Docker, Kubernates.
 - 📫 How to reach me:
      - Instagram: https://www.instagram.com/nunziofornitto 
