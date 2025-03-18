@@ -1,14 +1,60 @@
-- 👋 Hi, I’m Nunzio Fornitto
-- 👀 I’m interested in the world of software development, in particularly DevOps
-- 🌱 I’m currently learning the build & deployment with tecnologys such has
-     Docker, Kubernates.
-- 📫 How to reach me:
-     - Instagram: https://www.instagram.com/nunziofornitto 
-     - Facebook: https://www.facebook.com/nunzio.fornitto 
-     - E-mail: nfornitto@gmail.com
-     - Linkedin: https://www.linkedin.com/in/nunzio-fornitto
+<h1 align="center">🚀 Nunzio Fornitto 🚀</h1>
 
-<!---
-NunzioFornitto/NunzioFornitto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <strong>Software Developer | DevOps Enthusiast | Tech Explorer</strong>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600">
+</p>
+
+---
+
+## 🏆 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NunzioFornitto&show_icons=true&theme=radical" width="49%"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunzioFornitto&layout=compact&theme=radical" width="49%">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NunzioFornitto&theme=github-dark">
+</p>
+
+---
+
+## 💻 **Programming Languages**
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"></a>
+  <a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50" height="50"></a>
+  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"></a>
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"></a>
+  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50" height="50"></a>
+</p>
+
+---
+
+## 🛠️ **Tools & Technologies**
+<p align="center">
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"></a>
+  <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"></a>
+  <a href="https://kafka.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="50" height="50"></a>
+  <a href="https://prometheus.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="50" height="50"></a>
+  <a href="https://grafana.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50" height="50"></a>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"></a>
+  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"></a>
+  <a href="https://about.gitlab.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="50" height="50"></a>
+</p>
+
+---
+
+## 📫 **Contact Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/nunziofornitto">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif" width="400">
+</p>
