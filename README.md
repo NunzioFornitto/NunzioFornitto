@@ -39,6 +39,7 @@
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"></a>
   <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"></a>
   <a href="https://kafka.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="50" height="50"></a>
+  <a href="https://mqtt.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/MQTT_logo.svg" width="50" height="50"></a>
   <a href="https://prometheus.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="50" height="50"></a>
   <a href="https://grafana.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50" height="50"></a>
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"></a>
@@ -47,14 +48,9 @@
 </p>
 
 ---
-
 ## 📫 **Contact Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/nunzio-fornitto/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/nunziofornitto">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8&labelColor=0077b5&logoWidth=30&link=https://www.linkedin.com/in/nunziofornitto">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif" width="400">
 </p>
