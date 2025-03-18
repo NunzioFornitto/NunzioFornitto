@@ -46,7 +46,16 @@
   <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50"></a>
 </p>
 
+## 🗄️ **Databases**
+<p align="center">
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="70" height="70"></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="70" height="70"></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="70" height="70"></a>
+</p>
+
 ---
+
 ## 📫 **Contact Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/nunzio-fornitto/">
