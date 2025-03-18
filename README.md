@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Nunzio Fornitto 🚀</h1>
 
 <p align="center">
-  <strong>Software Developer | DevOps Enthusiast | Tech Explorer</strong>
+  <strong>Software Engineer DevOps Enthusiast
 </p>
 
 <p align="center">
