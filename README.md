@@ -2,6 +2,10 @@
 <p align="center">
   <strong>Software Engineer & DevOps Enthusiast
 </p>
+<h2 align="center">🎓 Computer Engineering Student</h2>
+<p align="center">
+  Currently pursuing a Master's degree in Computer Engineering (LM-32) at the University of Catania.
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600">
