@@ -1,5 +1,4 @@
 <h1 align="center">🚀 Nunzio Fornitto 🚀</h1>
-
 <p align="center">
   <strong>Software Engineer DevOps Enthusiast
 </p>
