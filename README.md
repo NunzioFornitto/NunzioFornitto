@@ -12,14 +12,14 @@
 </p>
 
 ---
-
 ## 🏆 **GitHub Stats**
+<h3 align="center">🏆 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NunzioFornitto&show_icons=true&theme=radical" width="49%"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunzioFornitto&layout=compact&theme=radical" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=NunzioFornitto&show_icons=true&theme=radical&count_private=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunzioFornitto&layout=compact&theme=radical" width="38%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NunzioFornitto&theme=github-dark">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NunzioFornitto&theme=github-dark" width="90%" />
 </p>
 
 ---
