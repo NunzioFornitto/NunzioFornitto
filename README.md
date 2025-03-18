@@ -50,7 +50,7 @@
 ---
 ## 📫 **Contact Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/nunziofornitto">
+  <a href="https://www.linkedin.com/in/nunzio-fornitto/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8&labelColor=0077b5&logoWidth=30&link=https://www.linkedin.com/in/nunziofornitto">
   </a>
 </p>
