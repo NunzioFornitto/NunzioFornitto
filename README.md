@@ -13,7 +13,7 @@
 
 ---
 ## 🏆 **GitHub Stats**
-<h3 align="center">🏆 GitHub Stats</h3>
+<h3 align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NunzioFornitto&show_icons=true&theme=radical&count_private=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunzioFornitto&layout=compact&theme=radical" width="38%" />
