@@ -1,13 +1,3 @@
-### ✅ La Soluzione (Fai questo ora)
-
-1.  Torna sul tuo profilo GitHub e clicca sulla matita ✏️ per modificare il `README.md`.
-2.  **Cancella TUTTO**. Il foglio deve essere bianco.
-3.  Assicurati che non ci siano **né spazi vuoti né simboli** (` ``` `) alla riga 1.
-4.  La **riga 1** deve iniziare immediatamente con `<div...`.
-
-Copia questo codice (è quello corretto) e incollalo direttamente:
-
-```html
 <div align="center">
 
 <table>
@@ -15,24 +5,21 @@ Copia questo codice (è quello corretto) e incollalo direttamente:
     <td valign="center" width="60%">
       <h1>
         Hi there, I'm Nunzio! 
-        <img src="[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)" width="30px">
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
       </h1>
-      
-      <img src="[https://media.giphy.com/media/swTPLqV8VYK52/giphy.gif](https://media.giphy.com/media/swTPLqV8VYK52/giphy.gif)" width="50px">
-      
       <br>
-      <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=26262600&center=false&vCenter=true&width=435&lines=Software+Engineer;DevOps+Enthusiast;Computer+Engineering+Student](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=26262600&center=false&vCenter=true&width=435&lines=Software+Engineer;DevOps+Enthusiast;Computer+Engineering+Student)" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=26262600&center=false&vCenter=true&width=435&lines=Software+Engineer;DevOps+Enthusiast;Computer+Engineering+Student" alt="Typing SVG" />
       <br>
       <br>
       🎓 <strong>Computer Engineering Student (LM-32)</strong><br>
-      at <a href="[https://www.unict.it/](https://www.unict.it/)">University of Catania</a>
+      at <a href="https://www.unict.it/">University of Catania</a>
       <br><br>
       <em>Passionate about building scalable infrastructure and efficient software.</em>
       <br><br>
-      <img src="[https://komarev.com/ghpvc/?username=NunzioFornitto&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=NunzioFornitto&label=Profile%20Views&color=0e75b6&style=flat)" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=NunzioFornitto&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     </td>
     <td valign="center" width="40%">
-      <img src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)" width="100%">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
     </td>
   </tr>
 </table>
@@ -46,13 +33,13 @@ Copia questo codice (è quello corretto) e incollalo direttamente:
   ## 🏆 **GitHub Analytics**
   
   <p>
-    <img src="[https://github-readme-stats.vercel.app/api?username=NunzioFornitto&show_icons=true&theme=radical&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=NunzioFornitto&show_icons=true&theme=radical&count_private=true&hide_border=true)" height="180" alt="stats graph" />
-    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=NunzioFornitto&layout=compact&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=NunzioFornitto&layout=compact&theme=radical&hide_border=true)" height="180" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NunzioFornitto&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunzioFornitto&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
   </p>
   
   <br>
 
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=NunzioFornitto&theme=github-dark&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=NunzioFornitto&theme=github-dark&hide_border=true)" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NunzioFornitto&theme=github-dark&hide_border=true" width="100%" />
 
 </div>
 
@@ -64,64 +51,64 @@ Copia questo codice (è quello corretto) e incollalo direttamente:
 
   ### **Languages**
   <p>
-    <a href="[https://www.python.org/](https://www.python.org/)">
-      <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
+    <a href="https://www.python.org/">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </a>
-    <a href="[https://go.dev/](https://go.dev/)">
-      <img src="[https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)" />
+    <a href="https://go.dev/">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     </a>
-    <a href="[https://isocpp.org/](https://isocpp.org/)">
-      <img src="[https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)" />
+    <a href="https://isocpp.org/">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     </a>
-    <a href="[https://www.open-std.org/jtc1/sc22/wg14/](https://www.open-std.org/jtc1/sc22/wg14/)">
-      <img src="[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)" />
+    <a href="https://www.open-std.org/jtc1/sc22/wg14/">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     </a>
-    <a href="[https://www.java.com/](https://www.java.com/)">
-      <img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)" />
+    <a href="https://www.java.com/">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     </a>
-    <a href="[https://learn.microsoft.com/en-us/dotnet/csharp/](https://learn.microsoft.com/en-us/dotnet/csharp/)">
-      <img src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)" />
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     </a>
-    <a href="[https://dotnet.microsoft.com/](https://dotnet.microsoft.com/)">
-      <img src="[https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)" />
+    <a href="https://dotnet.microsoft.com/">
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
     </a>
   </p>
 
   ### **DevOps & Tools**
   <p>
-    <a href="[https://www.docker.com/](https://www.docker.com/)">
-      <img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)" />
+    <a href="https://www.docker.com/">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     </a>
-    <a href="[https://kubernetes.io/](https://kubernetes.io/)">
-      <img src="[https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)" />
+    <a href="https://kubernetes.io/">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
     </a>
-    <a href="[https://kafka.apache.org/](https://kafka.apache.org/)">
-      <img src="[https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)" />
+    <a href="https://kafka.apache.org/">
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
     </a>
-    <a href="[https://prometheus.io/](https://prometheus.io/)">
-      <img src="[https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)" />
+    <a href="https://prometheus.io/">
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
     </a>
-    <a href="[https://grafana.com/](https://grafana.com/)">
-      <img src="[https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)" />
+    <a href="https://grafana.com/">
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
     </a>
-    <a href="[https://www.linux.org/](https://www.linux.org/)">
-      <img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" />
+    <a href="https://www.linux.org/">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </a>
-    <a href="[https://git-scm.com/](https://git-scm.com/)">
-      <img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)" />
+    <a href="https://git-scm.com/">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     </a>
   </p>
 
   ### **Databases**
   <p>
-    <a href="[https://www.mysql.com/](https://www.mysql.com/)">
-      <img src="[https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)" />
+    <a href="https://www.mysql.com/">
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     </a>
-    <a href="[https://www.microsoft.com/en-us/sql-server](https://www.microsoft.com/en-us/sql-server)">
-      <img src="[https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)" />
+    <a href="https://www.microsoft.com/en-us/sql-server">
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
     </a>
-    <a href="[https://www.mongodb.com/](https://www.mongodb.com/)">
-      <img src="[https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)" />
+    <a href="https://www.mongodb.com/">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     </a>
   </p>
 
@@ -133,14 +120,14 @@ Copia questo codice (è quello corretto) e incollalo direttamente:
   
   ## 📫 **Let's Connect**
   
-  <a href="[https://www.linkedin.com/in/nunzio-fornitto/](https://www.linkedin.com/in/nunzio-fornitto/)">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
+  <a href="https://www.linkedin.com/in/nunzio-fornitto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nfornitto@gmail.com">
-    <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.instagram.com/nunziofornitto/](https://www.instagram.com/nunziofornitto/)">
-    <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" />
+  <a href="https://www.instagram.com/nunziofornitto/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
 </div>
