@@ -37,7 +37,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunzioFornitto&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
   </p>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NunzioFornitto&theme=radical&hide_border=true" width="90%" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=NunzioFornitto&theme=radical&hide_border=true" width="90%" alt="streak stats"/>
   
   <br><br>
 
@@ -91,4 +91,45 @@
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
     </a>
     <a href="https://grafana.com/">
-      <img src="
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+    </a>
+    <a href="https://www.linux.org/">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    </a>
+    <a href="https://git-scm.com/">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </a>
+  </p>
+
+  ### **Databases**
+  <p>
+    <a href="https://www.mysql.com/">
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server">
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    </a>
+    <a href="https://www.mongodb.com/">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+  
+  ## 📫 **Let's Connect**
+  
+  <a href="https://www.linkedin.com/in/nunzio-fornitto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nfornitto@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nunziofornitto/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+</div>
