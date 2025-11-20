@@ -37,9 +37,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunzioFornitto&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
   </p>
   
-  <img src="https://streak-stats.demolab.com/?user=NunzioFornitto&theme=radical&hide_border=true" width="90%" alt="streak stats"/>
-  
-  <br><br>
+  <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NunzioFornitto&theme=github-dark&hide_border=true" width="100%" />
 
