@@ -7,6 +7,9 @@
         Hi there, I'm Nunzio! 
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
       </h1>
+      
+      <img src="https://media.giphy.com/media/swTPLqV8VYK52/giphy.gif" width="50px">
+      
       <br>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=26262600&center=false&vCenter=true&width=435&lines=Software+Engineer;DevOps+Enthusiast;Computer+Engineering+Student" alt="Typing SVG" />
       <br>
