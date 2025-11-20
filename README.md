@@ -1,20 +1,23 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" align="right">
-
-  <h1 align="center">Hi there, I'm Nunzio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
-  ###
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=26262600&center=true&vCenter=true&width=435&lines=Software+Engineer;DevOps+Enthusiast;Computer+Engineering+Student" alt="Typing SVG" />
-  ###
-
-  <p align="center">
-    🎓 <strong>Computer Engineering Student (LM-32)</strong> at <a href="https://www.unict.it/">University of Catania</a>
-  </p>
-  
-  <p align="center">
-     <em>Passionate about building scalable infrastructure and efficient software.</em>
-  </p>
+<table>
+  <tr>
+    <td valign="center" width="60%">
+      <h1>Hi there, I'm Nunzio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+      <br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=26262600&center=false&vCenter=true&width=435&lines=Software+Engineer;DevOps+Enthusiast;Computer+Engineering+Student" alt="Typing SVG" />
+      <br>
+      <br>
+      🎓 <strong>Computer Engineering Student (LM-32)</strong><br>
+      at <a href="https://www.unict.it/">University of Catania</a>
+      <br><br>
+      <em>Passionate about building scalable infrastructure and efficient software.</em>
+    </td>
+    <td valign="center" width="40%">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -25,7 +28,7 @@
   ## 🏆 **GitHub Analytics**
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=NunzioFornitto&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=NunzioFornitto&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunzioFornitto&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
   </p>
   
