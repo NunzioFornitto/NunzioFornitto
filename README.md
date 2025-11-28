@@ -1,7 +1,7 @@
 <div align="center">
 
 <table>
-  <tr> 
+  <tr>  
     <td valign="center" width="60%">
       <h1>
         Hi there, I'm Nunzio! 
