@@ -15,7 +15,7 @@
       at <a href="https://www.unict.it/">University of Catania</a>
       <br><br>
       <em>Passionate about building scalable infrastructure and efficient software.</em>
-      <br><br>
+      <br><br>  
       <img src="https://komarev.com/ghpvc/?username=NunzioFornitto&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     </td>
     <td valign="center" width="40%">
