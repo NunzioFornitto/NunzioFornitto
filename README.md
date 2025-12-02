@@ -20,7 +20,7 @@
     </td>
     <td valign="center" width="40%">
       <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
-    </td>
+    </td> 
   </tr>
 </table>
 
