@@ -17,7 +17,7 @@
       <em>Passionate about building scalable infrastructure and efficient software.</em> 
       <br><br>  
       <img src="https://komarev.com/ghpvc/?username=NunzioFornitto&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    </td>
+    </td>  
     <td valign="center" width="40%">
       <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
     </td> 
