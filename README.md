@@ -10,7 +10,7 @@
       <br>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=26262600&center=false&vCenter=true&width=435&lines=Software+Engineer;DevOps+Enthusiast;Computer+Engineering+Student" alt="Typing SVG" />
       <br>
-      <br>
+      <br>   
       🎓 <strong>Computer Engineering Student (LM-32)</strong><br>
       at <a href="https://www.unict.it/">University of Catania</a>
       <br><br>
