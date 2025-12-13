@@ -2,7 +2,7 @@
 
 <table>
   <tr>     
-    <td valign="center" width="60%">
+    <td valign="center" width="60%">  
       <h1>   
         Hi there, I'm Nunzio! 
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
