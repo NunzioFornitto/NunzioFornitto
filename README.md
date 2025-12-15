@@ -65,7 +65,7 @@
     </a>
     <a href="https://www.java.com/">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    </a>
+    </a>   
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     </a>
@@ -84,7 +84,7 @@
     </a>
     <a href="https://kafka.apache.org/">
       <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-    </a>
+    </a>   
     <a href="https://prometheus.io/">
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
     </a>
